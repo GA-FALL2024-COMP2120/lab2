@@ -1,0 +1,1 @@
+mvn archetype:generate "-DgroupId=ca.uwindsor.comp2120" "-DarchetypeArtifactId=maven-archetype-quickstart"  "-DinteractiveMode=false" "-DartifactId=lab2"
