@@ -1,0 +1,1 @@
+java -cp "lab2\target\classes\" ca.uwindsor.comp2120.App
